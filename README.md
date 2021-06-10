@@ -62,6 +62,6 @@ Coding
 </p>
 
 <p align="left">   
- <a href="https://github.com/rishi22raj94" rel="nofollow"> <img src="https://github.com/rishi22raj94/rishi22raj94/blob/main/Latest-Icons/Git-Stats.PNG" alt="Git-Stats" width="1000" height="500" style="max-width:100%;"> </a>  
+ <a href="https://github.com/rishi22raj94" rel="nofollow"> <img src="https://github.com/rishi22raj94/rishi22raj94/blob/main/Latest-Icons/Latest-Git-Stats.PNG" alt="Git-Stats" width="800" height="600" style="max-width:100%;"> </a>  
 </p>
 
