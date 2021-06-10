@@ -10,7 +10,6 @@ Coding
 - ⚡ Fun fact - I love to convert a random thing into a piece of art
 - 🌱 I’m currently learning new technologies like React.js to know more about User Experience and Design.
 - 👯 I’m looking for pair learning about Designs and Application architecture.
-- 🤔 Trying to improve productivity and managing time.
 
 Programming Languages:
 c cplusplus python javascript typescript
