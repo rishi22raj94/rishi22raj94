@@ -5,7 +5,7 @@ I'm a Passionate Developer, YouTuber, and Web & Mobile App Designer!!
 
 Coding
 
-- 🔭 I’m currently working on Web application projects using .Net Technologies such as Azure, ASP.NET, C#, SQL and for Front-End using JQuery.
+- 🔭 I’m currently working on Web application projects using .Net Technologies such as Azure, ASP.NET, C#, SQL and for Front-End using React and JQuery.
 - 📫 How to reach me - rishi22raj94@gmail.com
 - ⚡ Fun fact - I love to convert a random thing into a piece of art
 - 🌱 I’m currently learning new technologies like React.js to know more about User Experience and Design.
